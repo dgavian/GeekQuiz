@@ -1,9 +1,0 @@
-﻿{
-  "ignore": [],
-  "options": {
-    "predef": {
-      "angular": true
-    },
-    "plusplus": true
-  }
-}

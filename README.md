@@ -4,9 +4,9 @@ This repository contains a testable version of the Geek Quiz AngularJS Web API w
 ## Setting up AngularJS, Jasmine, and Karma:
 1. Install Node.js https://nodejs.org/
 2. Install the following Visual Studio extensions:
-..1. Chutzpah Test Adapter for the Test Explorer
-..2. Chutzpah Test Runner Context Menu Extension
+··1. Chutzpah Test Adapter for the Test Explorer
+··2. Chutzpah Test Runner Context Menu Extension
 3. Install the following NuGet packages:
-..1. AngularJS Core (in the web project)
-..2. jasmine.js (in the test project)
+··1. AngularJS Core (in the web project)
+··2. jasmine.js (in the test project)
 4. To add the required references to jasmine test file(s) (QuizCtrlSpec.js and TriviaServiceSpec.js in this example), select the necessary JavaScript files in Solution Explorer and drag and drop them into the top of the test files.

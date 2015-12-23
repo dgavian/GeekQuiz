@@ -90,7 +90,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\jasmine.css" />
-    <Content Include="ReadMe.txt" />
     <Content Include="Scripts\app\QuizCtrlSpec.js" />
     <Content Include="Scripts\app\TriviaServiceSpec.js" />
     <Content Include="Scripts\jasmine-html.js" />

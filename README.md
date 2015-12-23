@@ -2,7 +2,7 @@
 This repository contains a testable version of the Geek Quiz AngularJS Web API walkthrough. The original walkthrough can be found [here](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/build-a-single-page-application-spa-with-aspnet-web-api-and-angularjs).
 
 ## Setting up AngularJS, Jasmine, and Karma:
-1. Install Node.js https://nodejs.org/
+1. Install [Node.js](https://nodejs.org/)
 2. Install the following Visual Studio extensions:
   1. Chutzpah Test Adapter for the Test Explorer
   2. Chutzpah Test Runner Context Menu Extension
